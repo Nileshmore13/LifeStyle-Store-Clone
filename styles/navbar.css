@@ -115,16 +115,16 @@ font-family: ProximaNova-Semibold,"Helvetica Neue",Arial,sans-serif,"Apple Color
   display: flex;
   width: 80%;
 }
-#category{
+#nav_category_II{
   display: flex;
   width: 32%;
   justify-content: center;
   position: static;
 }
-#category>p{
+#nav_category>p{
   font-family: ProximaNova-Semibold,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
 }
-#category>p:hover{
+#nav_category>p:hover{
   color: rgb(250,167,24);
 }
 #search{

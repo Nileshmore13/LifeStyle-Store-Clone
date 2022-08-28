@@ -53,7 +53,7 @@ function navbar() {
             alt="Logo"
           />
         </div>
-        <div id="category">
+        <div id="nav_category_II">
           <p class="categoryA">
             <div class="dropdownA">
               <button class="dropbtnA">Women</button>
